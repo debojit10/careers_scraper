@@ -1,1 +1,1 @@
-# careers_scraper
+Scraper to fetch job details from Linkedin
